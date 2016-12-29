@@ -3,7 +3,7 @@ layout: post
 title: 2016년 투자 단상
 ---
 
-2016년 12월 29일 오후 3시 30분, 2016년 주식시장의 마지막 거래일 장이 마감했다. 내 HTS에서 올해 주식투자 수익률을 조회해보니 -1.43%이였다.
+2016년 12월 29일 오후 3시 30분, 2016년 주식시장의 마지막 거래일 장이 마감했다. 내 HTS에서 올해 주식투자 수익률을 조회해보니 -1.43%이였다. 수익률은 전날 기준이니 -2% 정도될 듯하다.
 
 ![2016년 수익률 캡쳐](https://raw.githubusercontent.com/eastnwise/eastnwise.github.io/master/images/post/2016-12-29-investment-review-2016.jpg)
 
