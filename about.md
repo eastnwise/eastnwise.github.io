@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## 적자생존
+:적는 자가 살아남는다
 
-### More Information
+1. 제가 보고, 듣고, 느끼는 것에 대해서 기록하는 개인 블로그합니다.
+2. 적어야 비로소 배울 수 있고, 가르쳐야(공유해야) 완성할 수 있다라는 믿음으로 시작했습니다.
+3. 전문성도 없고 검증되지 않은 글들로 가득 차 있습니다. 이 블로그의 정보를 이용할 때는 스스로 판단해서 활용하세요.
+4. 블로그 내용은 퍼가도 좋으나, 사이트 링크로 출처를 밝혀주세요.
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### 연락처
 
-[email@domain.com](mailto:email@domain.com)
+eastnwise_AT_gmail.com
