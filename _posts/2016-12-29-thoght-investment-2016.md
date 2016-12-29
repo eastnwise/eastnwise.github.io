@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 2016년 투자 단상
 ---
 
