@@ -14,7 +14,7 @@ date: 2016-12-31 23:55
 
 2016년 12월 31일, 현재 내가 총 읽은 책들은 41권이다. 
 
-![2016 Reading Challenge](https://raw.githubusercontent.com/eastnwise/eastnwise.github.io/master/images/post/2016-12-31-reading-challeng.jpg)
+![2016 Reading Challenge](https://raw.githubusercontent.com/eastnwise/eastnwise.github.io/master/images/post/2016-12-31-reading-challenge.jpg)
 
 목표를 달성하지 못한 변명을 굳이 하자면 시작하고 몇달 간 신나게 읽다가 슬럼프에 빠져 한참동안 손을 놓기도 했었고, 재미있는 Podcast 방송을 몇개 알게 되어 출퇴근 시간에 듣다보니 책 읽을 시간이 부족했다.
 
