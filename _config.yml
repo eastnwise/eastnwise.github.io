@@ -15,6 +15,7 @@ avatar: https://raw.githubusercontent.com/eastnwise/eastnwise.github.io/master/i
 #
 # Flags below are optional
 #
+timezone: '+0900'
 
 # Includes an icon in the footer for each username you enter
 footer-links:
