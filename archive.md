@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Archive
-permalink: /about/
+permalink: /archive/
 ---
 
 <!-- <ul> -->
