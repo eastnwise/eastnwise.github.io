@@ -1,6 +1,5 @@
 ---
 yout: default
-title: Archive
 ---
 
 <!-- <ul> -->
@@ -14,9 +13,9 @@ title: Archive
 <ul>
   {% for post in site.posts %}
 
-    {% unless post.next %}
-      <h3>{{ post.date | date: '%Y-%m' }}</h3>
-    {% else %}
+    <!-- {% unless post.next %} -->
+    <!--   <h3>{{ post.date | date: '%Y-%m' }}</h3> -->
+    <!-- {% else %} -->
       {% capture month %}{{ post.date | date: '%Y-%m' }}{% endcapture %}
       {% capture nmonth %}{{ post.next.date | date: '%Y-m%' }}{% endcapture %}
       {% if month != nmonth %}
