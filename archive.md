@@ -16,6 +16,7 @@ permalink: /archive/
 <div id="search-container">
 <input type="text" id="search-input" placeholder="search...">
 <ul id="results-container"></ul>
+<hr />
 </div>
 
 <!-- Script pointing to jekyll-search.js -->
