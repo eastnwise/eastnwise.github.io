@@ -1,6 +1,7 @@
 ---
 yout: default
 title: Archive
+permalink: /search/
 ---
 
 <!-- <ul> -->
