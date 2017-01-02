@@ -2,6 +2,7 @@
 layout: default
 page_title: Search
 ---
+<h3> Search </h3>
 <!--Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="search...">
@@ -21,6 +22,6 @@ page_title: Search
         noResultsText: 'No results found',
         limit: 10,
         fuzzy: false,
-        exclude: ['Welcome']
+        exclude: ['Welcome', Archive]
       })
 </script>
