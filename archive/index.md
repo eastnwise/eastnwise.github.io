@@ -27,14 +27,16 @@ title: Archive
     <li>{{ post.date | date:"%d" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
+j
+<ul>
 {% for post in site.posts %}
     {% capture month %}{{ post.date | date: '%Y-%m' }}{% endcapture %}
     {% capture nmonth %}{{ post.next.date | date: '%Y-%m' }}{% endcapture %}
         {% if month != nmonth %}
             <!-- {% if forloop.index != 1 %}</ul>{% endif %} -->
-            <h3>{{ post.date | date: '%Y-%m' }}</h3><ul>
+            <h3>{{ post.date | date: '%Y-%m' }}</h3>
         {% endif %}
     <time>{{ post.date | date: "%d" }}</time>
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li></ul>
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
+</ul>k
