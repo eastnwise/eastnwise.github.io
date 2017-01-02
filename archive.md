@@ -1,6 +1,7 @@
 ---
-yout: default
+layout: default
 title: Archive
+permalink: /about/
 ---
 
 <!-- <ul> -->
