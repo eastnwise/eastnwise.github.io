@@ -5,7 +5,7 @@ page_title: Search
 <!--Html Elements for Search -->
 <div id="search-container">
 <h1> Search </h1>
-<input type="text" id="search-input" placeholder="search..." size="60" style="height:20px">
+<input type="text" id="search-input" placeholder="search..." size="80" style="height:20px;">
 <ul id="results-container"></ul>
 </div>
 
