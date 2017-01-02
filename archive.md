@@ -1,5 +1,5 @@
 ---
-yout: default
+yout: page
 title: Archive
 permalink: /search/
 ---
