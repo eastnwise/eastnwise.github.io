@@ -1,5 +1,6 @@
 ---
 yout: default
+title: Archive
 ---
 
 <!-- <ul> -->
