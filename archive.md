@@ -19,7 +19,7 @@ permalink: /archive/
 </div>
 
 <!-- Script pointing to jekyll-search.js -->
-<script src="{{site.baseurl}}/search/jekyll-search.min.js" type="text/javascript"></script>
+Search: <script src="{{site.baseurl}}/search/jekyll-search.min.js" type="text/javascript"></script>
 
 
 <script type="text/javascript">
@@ -34,6 +34,7 @@ permalink: /archive/
         exclude: ['Welcome']
       })
 </script>
+
 <ul>
 {% for post in site.posts %}
     {% capture month %}{{ post.date | date: '%Y-%m' }}{% endcapture %}
