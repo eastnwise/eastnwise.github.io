@@ -2,7 +2,7 @@
 layout: default
 page_title: Search
 ---
-<h3> Search </h3>
+<h1> Search </h1>
 <!--Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="search...">
