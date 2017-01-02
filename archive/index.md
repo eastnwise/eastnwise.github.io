@@ -1,7 +1,6 @@
 ---
-yout: page
+yout: default
 title: Archive
-permalink: /search/
 ---
 
 <!-- <ul> -->
