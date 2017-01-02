@@ -22,6 +22,6 @@ page_title: Search
         noResultsText: 'No results found',
         limit: 10,
         fuzzy: false,
-        exclude: ['Welcome', Archive]
+        exclude: ['Welcome']
       })
 </script>
