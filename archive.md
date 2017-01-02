@@ -19,14 +19,14 @@ permalink: /archive/
 </div>
 
 <!-- Script pointing to jekyll-search.js -->
-Search: <script src="{{site.baseurl}}/search/jekyll-search.min.js" type="text/javascript"></script>
+<script src="{{site.baseurl}}/jekyll-search.min.js" type="text/javascript"></script>
 
 
 <script type="text/javascript">
       SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
-        json: '{{ site.baseurl }}/search/search.json',
+        json: '{{ site.baseurl }}/search.json',
         searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
         noResultsText: 'No results found',
         limit: 10,
