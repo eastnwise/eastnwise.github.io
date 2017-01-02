@@ -16,7 +16,6 @@ permalink: /archive/
 <div id="search-container">
 <input type="text" id="search-input" placeholder="search...">
 <ul id="results-container"></ul>
-<hr />
 </div>
 
 <!-- Script pointing to jekyll-search.js -->
@@ -28,7 +27,7 @@ permalink: /archive/
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         json: '{{ site.baseurl }}/search.json',
-        searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+        searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li><hr />',
         noResultsText: 'No results found',
         limit: 10,
         fuzzy: false,
