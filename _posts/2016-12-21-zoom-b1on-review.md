@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Zoom B1on 멀티이펙터 리뷰
+date: 2016-12-21 17:00
+category: things
 ---
 
 ## 사게된 계기
