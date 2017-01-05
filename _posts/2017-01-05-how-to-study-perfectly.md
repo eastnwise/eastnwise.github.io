@@ -14,7 +14,7 @@ category: reading
 
 ## 완공: 완벽한 공부법
 
-![완벽한 공부법](https://raw.githubusercontent.com/eastnwise/eastnwise.github.io/master/images/post/2016-12-29-how-to-study-perfectly.png)
+![완벽한 공부법](https://raw.githubusercontent.com/eastnwise/eastnwise.github.io/master/images/post/2017-01-05-how-to-study-perfectly.png)
 
 1. 믿음: 발전할 수 있다는 믿음을 가지자. 그러기 위해 작은 성공을 경험해라.
 
