@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 독서노트 - 완벽한 공부법
 date: 2017-01-05 10:11
 category: reading
