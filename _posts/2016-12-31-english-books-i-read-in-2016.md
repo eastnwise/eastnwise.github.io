@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 2016년 올해 읽은 영어책
 date: 2016-12-31 23:55
 category: reading
