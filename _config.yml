@@ -1,2 +1,6 @@
 # remote_theme: pages-themes/minimal@v0.2.0
 theme: minima
+
+header_page:
+  - about.md 
+  - bulltin.md 
