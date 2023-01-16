@@ -1,7 +1,8 @@
 # remote_theme: pages-themes/minimal@v0.2.0
-theme: minima
-minima:
-  date_format: "%Y-%m-%d"
+remote_theme: just-the-docs/just-the-docs@v0.4.0.rc4
+# theme: minima
+# minima:
+#  date_format: "%Y-%m-%d"
 
-header_page:
-  - about.md 
+# header_page:
+#  - about.md 
