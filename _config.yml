@@ -1,8 +1,8 @@
-# remote_theme: pages-themes/minimal@v0.2.0
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc4
-# theme: minima
-# minima:
-#  date_format: "%Y-%m-%d"
 
-# header_page:
-#  - about.md 
+title: East & Wise
+description: Personal Knowedge Page
+# baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
+url: "https://www.eastnwise.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+permalink: pretty
