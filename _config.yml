@@ -1,5 +1,7 @@
 # remote_theme: pages-themes/minimal@v0.2.0
 theme: minima
+minima:
+  date_format: "%Y-%m-%d"
 
 header_page:
   - about.md 
